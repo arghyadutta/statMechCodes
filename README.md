@@ -1,2 +1,1 @@
-# statMech2024
-Codes demonstrating some ideas from probability and statistics. Aimed for undergrads.
+Beginner-level codes I wrote for demonstrating some ideas on probability and statistics while teaching a course on statistical mechanics.

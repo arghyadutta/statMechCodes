@@ -1,4 +1,4 @@
-git pull origin master;
+git pull origin main;
 git add --all;
 git commit -m "Last updated on `date +'%Y-%m-%d %H:%M:%S'`";
 git push origin main

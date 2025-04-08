@@ -1,1 +1,1 @@
-Beginner-level codes I wrote for demonstrating some ideas on probability and statistics while teaching a course on statistical mechanics.
+Few simple codes for demonstrating ideas on probability and statistics.

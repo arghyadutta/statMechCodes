@@ -1,1 +1,1 @@
-Few simple codes for demonstrating ideas on probability and statistics.
+Few simple codes for demonstrating ideas from probability and statistics.
